@@ -1,7 +1,6 @@
-# playgta5 Source Code
+# Credits
 This code is grabbed from playgta5.com before it got took down. You can run this locally or make it public hehe.
 
-# Credits
 Shoutout to Sebas Furbastian on Telegram for scrapping this code. Idk what is his GitHub but here's the Telegram and X.
 
 Telegram: @SebasKitten
